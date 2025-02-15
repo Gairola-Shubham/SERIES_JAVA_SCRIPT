@@ -50,18 +50,4 @@ Number guessing game
 Lecture_01_Event handling, on click event, Propogation, stop propogation, types of event propogation, Bubling and caputring
 Lecture_02_Synchronous and Asynchronous language, file system, java script engine
 
-08_Projects_In_Java_Script
-_01_Use of setTimeout function
-Lecture_02_Use of setTimeout and clear timeout function
-Lecture_03_Key board checker
-Lecture_04_Unlimited color changing
 
-
-09_API Request and V8 engine
-Lecture_01_Notes ,Concept
-
-10_Promises
-Lecture_01_Notes, Example ,Concept
-
-11_Fetch
-Lecture_01_Notes,Example ,Concept
